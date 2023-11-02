@@ -1,0 +1,443 @@
+City,Lat,Lon,year,poverty exposure,state
+Auburn ,47.3073,-122.2284,2021,0.450954189,Alabama
+Birmingham ,33.5207,-86.8025,2021,0.341036,Alabama
+Hoover ,33.4054,-86.8114,2021,0.0,Alabama
+Huntsville ,34.7304,-86.5861,2021,0.213182146,Alabama
+Mobile ,30.6944,-88.0431,2021,0.155801332,Alabama
+Montgomery ,30.6667,73.1,2021,0.270520877,Alabama
+Tuscaloosa ,33.2098,-87.5692,2021,0.260855858,Alabama
+Avondale ,33.4356,-112.3496,2021,0.0,Arizona
+Buckeye ,33.3703,-112.5838,2021,0.0,Arizona
+Chandler ,33.3062,-111.8412,2021,0.000195,Arizona
+Flagstaff ,35.1981,-111.6513,2021,0.3670358,Arizona
+Glendale ,33.5387,-112.186,2021,0.033285118,Arizona
+Goodyear ,33.4353,-112.3582,2021,0.0,Arizona
+Mesa ,33.4223,-111.8226,2021,0.11436209,Arizona
+Peoria ,33.5806,-112.2374,2021,0.0,Arizona
+Phoenix ,33.4484,-112.074,2021,0.08829037,Arizona
+Scottsdale ,33.5092,-111.899,2021,0.0,Arizona
+Surprise ,33.6306,-112.3332,2021,0.0,Arizona
+Tempe ,33.4148,-111.9093,2021,0.05725891,Arizona
+Tucson ,32.2217,-110.9265,2021,0.080510175,Arizona
+Yuma ,32.7253,-114.6244,2021,0.117090177,Arizona
+Fayetteville ,35.0527,-78.8784,2021,0.211384092,Arkansas
+Fort Smith ,35.3859,-94.3986,2021,0.0,Arkansas
+Jonesboro ,35.8423,-90.7043,2021,0.212584573,Arkansas
+Little Rock ,34.7465,-92.2896,2021,0.092427459,Arkansas
+Springdale ,36.1867,-94.1288,2021,0.115405535,Arkansas
+Alameda ,37.7652,-122.2416,2021,0.0,California
+Alhambra ,34.0953,-118.127,2021,0.0,California
+Anaheim ,33.8353,-117.9145,2021,0.0,California
+Antioch ,36.2066,36.1572,2021,0.0,California
+Bakersfield ,35.3733,-119.0187,2021,0.259813121,California
+Bellflower ,33.8817,-118.117,2021,0.0,California
+Berkeley ,37.8716,-122.2728,2021,0.459918985,California
+Buena Park ,33.8675,-117.9981,2021,0.0,California
+Burbank ,34.1808,-118.309,2021,0.0,California
+Carlsbad ,33.1581,-117.3506,2021,0.0,California
+Carson ,33.8314,-118.282,2021,0.0,California
+Chico ,39.7285,-121.8375,2021,0.419560045,California
+Chino ,34.0122,-117.6889,2021,0.000444,California
+Chino Hills ,33.9938,-117.7589,2021,0.0,California
+Chula Vista ,32.64,-117.0842,2021,0.0,California
+Citrus Heights ,38.7071,-121.2811,2021,0.0,California
+Clovis ,36.8252,-119.7029,2021,0.0,California
+Compton ,33.8959,-118.2201,2021,0.0,California
+Concord ,37.978,-122.0311,2021,0.0,California
+Corona ,33.8753,-117.5664,2021,0.0,California
+Costa Mesa ,33.6411,-117.9187,2021,0.0,California
+Daly City ,37.7058,-122.4619,2021,0.0,California
+Downey ,33.94,-118.1326,2021,0.0,California
+El Cajon ,32.7948,-116.9625,2021,0.131151417,California
+Elk Grove ,38.4088,-121.3716,2021,0.0,California
+El Monte ,34.0686,-118.0276,2021,0.0,California
+Escondido ,33.1192,-117.0864,2021,0.0,California
+Fairfield ,38.2494,-122.04,2021,0.0,California
+Folsom ,38.678,-121.1761,2021,0.0,California
+Fontana ,34.0922,-117.4351,2021,0.0,California
+Fremont ,37.5483,-121.9886,2021,0.0,California
+Fresno ,36.7477,-119.7724,2021,0.274388885,California
+Fullerton ,33.8703,-117.9253,2021,0.0,California
+Garden Grove ,33.7739,-117.9415,2021,0.0,California
+Hawthorne ,33.9164,-118.3526,2021,0.048517587,California
+Hayward ,37.6688,-122.0808,2021,0.0,California
+Hemet ,33.7475,-116.972,2021,0.0,California
+Hesperia ,34.4264,-117.3009,2021,0.050325597,California
+Huntington Beach ,33.6603,-117.9992,2021,0.0,California
+Indio ,33.7206,-116.2156,2021,0.0,California
+Inglewood ,33.9617,-118.3531,2021,0.0,California
+Irvine ,33.6695,-117.8231,2021,0.090672756,California
+Lake Forest ,33.647,-117.6892,2021,0.0,California
+Lakewood ,39.7047,-105.0814,2021,0.0,California
+Lancaster ,34.698,-118.1367,2021,0.059884656,California
+Livermore ,37.6819,-121.768,2021,0.0,California
+Long Beach ,33.767,-118.1892,2021,0.000917,California
+Los Angeles ,34.0522,-118.2437,2021,0.076721925,California
+Manteca ,37.7974,-121.216,2021,0.0,California
+Menifee ,33.7284,-117.1464,2021,0.0,California
+Merced ,37.3022,-120.483,2021,0.245667796,California
+Milpitas ,37.4283,-121.9066,2021,0.0,California
+Mission Viejo ,33.6,-117.672,2021,0.0,California
+Modesto ,37.6391,-120.9969,2021,0.084302483,California
+Moreno Valley ,33.9375,-117.2306,2021,0.0,California
+Mountain View ,37.3861,-122.0838,2021,0.0,California
+Murrieta ,33.5539,-117.2139,2021,0.0,California
+Napa ,38.2971,-122.2855,2021,0.006163434,California
+Newport Beach ,33.6189,-117.9289,2021,0.0,California
+Norwalk ,33.9022,-118.0817,2021,0.0,California
+Oakland ,37.8044,-122.2708,2021,0.010287401,California
+Oceanside ,33.1959,-117.3795,2021,0.0,California
+Ontario ,34.0633,-117.6509,2021,0.0,California
+Orange ,33.7878,-117.8531,2021,0.0,California
+Oxnard ,34.1975,-119.177,2021,0.0,California
+Palmdale ,34.5794,-118.1165,2021,0.0,California
+Pasadena ,29.6911,-95.2091,2021,0.08384037,California
+Perris ,33.7825,-117.2287,2021,0.0,California
+Pittsburg ,38.028,-121.8847,2021,0.0,California
+Pleasanton ,37.6624,-121.8747,2021,0.0,California
+Pomona ,34.0553,-117.7523,2021,0.09646943,California
+Rancho Cordova ,38.5891,-121.3027,2021,0.0,California
+Rancho Cucamonga ,34.1064,-117.5931,2021,0.0,California
+Redding ,40.5865,-122.3917,2021,0.0,California
+Redwood City ,37.4852,-122.2364,2021,0.0,California
+Rialto ,34.1064,-117.3703,2021,0.0,California
+Richmond ,37.5538,-77.4603,2021,0.0,California
+Riverside ,33.9534,-117.3962,2021,0.000158,California
+Roseville ,38.7521,-121.288,2021,0.0,California
+Sacramento ,38.5816,-121.4944,2021,0.076081851,California
+Salinas ,36.6777,-121.6555,2021,0.0,California
+San Bernardino ,34.1083,-117.2898,2021,0.018986056,California
+San Diego ,32.7153,-117.1573,2021,0.038385048,California
+San Francisco ,-2.8998,-78.7498,2021,0.037701709,California
+San Jose ,37.3394,-121.895,2021,0.010315923,California
+San Leandro ,37.7249,-122.1561,2021,0.0,California
+San Marcos ,33.1434,-117.1661,2021,0.0,California
+San Mateo ,14.6982,121.1236,2021,0.0,California
+San Ramon ,37.7799,-121.978,2021,0.0,California
+Santa Ana ,33.7456,-117.8678,2021,0.0,California
+Santa Barbara ,34.4208,-119.6982,2021,0.0,California
+Santa Clara ,22.4,-79.9667,2021,0.0,California
+Santa Clarita ,34.3917,-118.5426,2021,0.0,California
+Santa Maria ,-29.6842,-53.8069,2021,0.0,California
+Santa Monica ,34.0195,-118.4912,2021,0.0,California
+Santa Rosa ,14.3122,121.1114,2021,0.0,California
+Simi Valley ,34.2695,-118.7815,2021,0.0,California
+South Gate ,33.9547,-118.212,2021,0.0,California
+Stockton ,37.9577,-121.2908,2021,0.062889785,California
+Sunnyvale ,37.3688,-122.0363,2021,0.0,California
+Temecula ,33.4936,-117.1484,2021,0.0,California
+Thousand Oaks ,34.1706,-118.8376,2021,0.0,California
+Torrance ,33.8359,-118.3406,2021,0.0,California
+Tracy ,37.7397,-121.4252,2021,0.0,California
+Tustin ,33.7459,-117.8262,2021,0.0,California
+Upland ,34.0975,-117.6484,2021,0.0,California
+Vacaville ,38.3566,-121.9877,2021,0.0,California
+Vallejo ,38.1041,-122.2566,2021,0.0,California
+Victorville ,34.5361,-117.2912,2021,0.085141719,California
+Visalia ,36.3302,-119.2921,2021,0.172168502,California
+Vista ,33.2,-117.2425,2021,0.0,California
+West Covina ,34.0686,-117.939,2021,0.0,California
+Westminster ,39.8367,-105.0372,2021,0.0,California
+Whittier ,33.9792,-118.0328,2021,0.0,California
+Arvada ,39.8028,-105.0875,2021,0.0,Colorado
+Aurora ,39.7294,-104.8319,2021,0.0,Colorado
+Boulder ,40.015,-105.2706,2021,0.41573967,Colorado
+Centennial ,39.5792,-104.8769,2021,0.0,Colorado
+Colorado Springs ,38.8339,-104.8214,2021,0.0,Colorado
+Denver ,39.7392,-104.9847,2021,0.010915406,Colorado
+Fort Collins ,40.5853,-105.0844,2021,0.235352379,Colorado
+Greeley ,40.4233,-104.7091,2021,0.019606743,Colorado
+Longmont ,40.1672,-105.1019,2021,0.0,Colorado
+Loveland ,40.3978,-105.075,2021,0.0,Colorado
+Pueblo ,38.2545,-104.6091,2021,0.148303153,Colorado
+Thornton ,39.868,-104.9719,2021,0.0,Colorado
+Bridgeport ,41.167,-73.2048,2021,0.11918873,Connecticut
+Danbury ,41.3948,-73.454,2021,0.0,Connecticut
+Hartford ,41.7637,-72.6851,2021,0.365376357,Connecticut
+New Haven ,41.3082,-72.9282,2021,0.020930006,Connecticut
+Stamford ,41.0534,-73.5387,2021,0.0,Connecticut
+Waterbury ,41.5582,-73.0515,2021,0.175485627,Connecticut
+Washington ,47.5001,-120.5015,2021,0.142022302,District of Columbia
+Boca Raton ,26.3587,-80.0831,2021,0.0,Florida
+Boynton Beach ,26.5254,-80.0664,2021,0.0,Florida
+Cape Coral ,26.5629,-81.9495,2021,0.0,Florida
+Clearwater ,27.9659,-82.8001,2021,0.0,Florida
+Coral Springs ,26.2712,-80.2706,2021,0.0,Florida
+Deerfield Beach ,26.3184,-80.0998,2021,0.0,Florida
+Deltona ,28.9005,-81.2637,2021,0.0,Florida
+Doral ,25.8195,-80.3553,2021,0.0,Florida
+Fort Lauderdale ,26.1223,-80.1434,2021,0.032715619,Florida
+Fort Myers ,26.6217,-81.8406,2021,0.152587759,Florida
+Gainesville ,29.6516,-82.3248,2021,0.501510092,Florida
+Hialeah ,25.8576,-80.2781,2021,0.012764596,Florida
+Hollywood ,34.0983,-118.3267,2021,0.0,Florida
+Homestead ,25.4687,-80.4776,2021,0.501012851,Florida
+Jacksonville ,30.3322,-81.6556,2021,0.094343449,Florida
+Kissimmee ,28.3047,-81.4167,2021,0.0,Florida
+Lakeland ,28.0395,-81.9498,2021,0.1108023,Florida
+Largo ,27.9095,-82.7873,2021,0.006097661,Florida
+Melbourne ,28.0836,-80.6081,2021,0.0,Florida
+Miami ,25.7743,-80.1937,2021,0.178088622,Florida
+Miami Beach ,25.7906,-80.1301,2021,0.0,Florida
+Miami Gardens ,25.942,-80.2456,2021,0.0,Florida
+Miramar ,25.9873,-80.2323,2021,0.0,Florida
+North Port ,27.0442,-82.2359,2021,0.0,Florida
+Orlando ,28.5383,-81.3792,2021,0.01196065,Florida
+Palm Bay ,28.0345,-80.5887,2021,0.090991663,Florida
+Palm Coast ,29.585,-81.2078,2021,0.0,Florida
+Pembroke Pines ,26.0032,-80.2239,2021,0.168940546,Florida
+Plantation ,26.1342,-80.2318,2021,0.0,Florida
+Pompano Beach ,26.2379,-80.1248,2021,0.140166164,Florida
+Sunrise ,26.1577,-80.2861,2021,0.0,Florida
+Tallahassee ,30.4383,-84.2807,2021,0.579029953,Florida
+Tampa ,27.9475,-82.4584,2021,0.17996427,Florida
+West Palm Beach ,26.7153,-80.0534,2021,0.064513306,Florida
+Atlanta ,33.749,-84.388,2021,0.263623772,Georgia
+Columbus ,39.9612,-82.9988,2021,0.237781226,Georgia
+Johns Creek ,34.0289,-84.1986,2021,0.0,Georgia
+Roswell ,34.0232,-84.3616,2021,0.0,Georgia
+Sandy Springs ,33.9243,-84.3785,2021,0.0,Georgia
+Savannah ,32.0835,-81.0998,2021,0.121891547,Georgia
+South Fulton ,36.5009,-88.8753,2021,0.0,Georgia
+Warner Robins ,32.621,-83.5999,2021,0.102063239,Georgia
+Boise City ,36.7295,-102.5132,2021,0.141466204,Idaho
+Meridian ,43.6121,-116.3915,2021,0.0,Idaho
+Nampa ,43.5407,-116.5635,2021,0.0,Idaho
+Bloomington ,44.8408,-93.2983,2021,0.05424543,Illinois
+Champaign ,40.1164,-88.2434,2021,0.508528192,Illinois
+Chicago ,41.85,-87.65,2021,0.16023684,Illinois
+Elgin ,42.0373,-88.2812,2021,0.0,Illinois
+Evanston ,42.0411,-87.6901,2021,0.221763248,Illinois
+Joliet ,41.525,-88.0817,2021,0.089424663,Illinois
+Naperville ,41.7859,-88.1473,2021,0.0,Illinois
+Rockford ,42.2711,-89.094,2021,0.266844899,Illinois
+Springfield ,37.2153,-93.2982,2021,0.103485545,Illinois
+Waukegan ,42.3636,-87.8448,2021,0.087401842,Illinois
+Carmel ,39.9784,-86.118,2021,0.0,Indiana
+Evansville ,37.9748,-87.5558,2021,0.00018,Indiana
+Fishers ,39.9556,-86.0139,2021,0.0,Indiana
+Fort Wayne ,41.1306,-85.1289,2021,0.092764033,Indiana
+Hammond ,41.5834,-87.5,2021,0.217933075,Indiana
+South Bend ,41.6834,-86.25,2021,0.224479578,Indiana
+Cedar Rapids ,42.0083,-91.6441,2021,0.044771266,Iowa
+Davenport ,41.5236,-90.5776,2021,0.088837784,Iowa
+Des Moines ,41.6005,-93.6091,2021,0.094345021,Iowa
+Sioux City ,42.5,-96.4003,2021,0.071833477,Iowa
+Kansas City ,39.0997,-94.5786,2021,0.069383493,Kansas
+Lawrence ,38.9717,-95.2353,2021,0.190420721,Kansas
+Olathe ,38.8814,-94.8191,2021,0.0,Kansas
+Overland Park ,38.9822,-94.6708,2021,0.0,Kansas
+Topeka ,39.0483,-95.678,2021,0.0,Kansas
+Wichita ,37.6922,-97.3375,2021,0.11441622,Kansas
+Baton Rouge ,30.4508,-91.1545,2021,0.286868381,Louisiana
+Lafayette ,30.2241,-92.0198,2021,0.107881541,Louisiana
+Lake Charles ,30.2131,-93.2044,2021,0.186329312,Louisiana
+New Orleans ,29.9547,-90.0751,2021,0.291671835,Louisiana
+Shreveport ,32.5251,-93.7502,2021,0.409953638,Louisiana
+Baltimore ,39.2904,-76.6122,2021,0.225351626,Maryland
+Frederick ,39.4143,-77.4105,2021,0.0,Maryland
+Boston ,42.3584,-71.0598,2021,0.137924808,Massachusetts
+Brockton ,42.0834,-71.0184,2021,0.0,Massachusetts
+Cambridge ,43.3601,-80.3127,2021,0.0,Massachusetts
+Fall River ,41.7015,-71.1551,2021,0.0,Massachusetts
+Lowell ,42.6334,-71.3162,2021,0.0,Massachusetts
+Lynn ,42.4668,-70.9495,2021,0.0,Massachusetts
+New Bedford ,41.6362,-70.9342,2021,0.111682547,Massachusetts
+Newton ,42.337,-71.2092,2021,0.0,Massachusetts
+Quincy ,42.2529,-71.0023,2021,0.0,Massachusetts
+Somerville ,42.3876,-71.0995,2021,0.0,Massachusetts
+Worcester ,42.2626,-71.8023,2021,0.169355499,Massachusetts
+Ann Arbor ,42.2776,-83.7409,2021,0.530077125,Michigan
+Dearborn ,42.3223,-83.1763,2021,0.227117242,Michigan
+Detroit ,42.3314,-83.0458,2021,0.406982973,Michigan
+Farmington Hills ,42.4853,-83.3772,2021,0.0,Michigan
+Flint ,43.0125,-83.6875,2021,0.392443199,Michigan
+Grand Rapids ,42.9634,-85.6681,2021,0.085414825,Michigan
+Lansing ,42.7325,-84.5555,2021,0.049694844,Michigan
+Livonia ,42.3684,-83.3527,2021,0.012907609,Michigan
+Rochester Hills ,42.6584,-83.1499,2021,0.0,Michigan
+Southfield ,42.4734,-83.2219,2021,0.0,Michigan
+Sterling Heights ,42.5803,-83.0302,2021,0.001761912,Michigan
+Troy ,42.6056,-83.1499,2021,0.0,Michigan
+Warren ,42.4775,-83.0277,2021,0.004120684,Michigan
+Westland ,42.3242,-83.4002,2021,0.0,Michigan
+Wyoming ,43.0002,-107.5009,2021,0.0,Michigan
+Brooklyn Park ,45.0941,-93.3563,2021,0.0,Minnesota
+Duluth ,46.7833,-92.1066,2021,0.254790979,Minnesota
+Minneapolis ,44.98,-93.2638,2021,0.23719013,Minnesota
+Plymouth ,50.3715,-4.1431,2021,0.0,Minnesota
+Rochester ,43.1548,-77.6156,2021,0.076576572,Minnesota
+St. Paul ,53.9835,-111.2851,2021,0.059844033,Minnesota
+Woodbury ,44.9239,-92.9594,2021,0.0,Minnesota
+Jackson ,32.2988,-90.1848,2021,0.220297674,Mississippi
+Columbia ,34.0007,-81.0348,2021,0.307817384,Missouri
+Independence ,39.0911,-94.4155,2021,0.088148002,Missouri
+St. Louis ,52.9168,-105.8178,2021,0.104252709,Missouri
+Billings ,45.7833,-108.5007,2021,0.0,Montana
+Lincoln ,40.8,-96.667,2021,0.086545671,Nebraska
+Omaha ,41.2586,-95.9378,2021,0.096092237,Nebraska
+Henderson ,36.0397,-114.9819,2021,0.0,Nevada
+Las Vegas ,36.175,-115.1372,2021,0.038119299,Nevada
+North Las Vegas ,36.1989,-115.1175,2021,0.060078975,Nevada
+Reno ,39.5296,-119.8138,2021,0.109776,Nevada
+Sparks ,39.5349,-119.7527,2021,0.0,Nevada
+Manchester ,53.4809,-2.2374,2021,0.0,New Hampshire
+Nashua ,42.7654,-71.4676,2021,0.0,New Hampshire
+Clifton ,40.8584,-74.1638,2021,0.0,New Jersey
+Elizabeth ,40.664,-74.2107,2021,0.0,New Jersey
+Jersey City ,40.7282,-74.0776,2021,0.0,New Jersey
+Newark ,40.7357,-74.1724,2021,0.21033576,New Jersey
+Paterson ,40.9168,-74.1718,2021,0.165540627,New Jersey
+Trenton ,40.217,-74.7429,2021,0.27778696,New Jersey
+Albuquerque ,35.0845,-106.6511,2021,0.087563941,New Mexico
+Las Cruces ,32.3123,-106.7783,2021,0.07761642,New Mexico
+Rio Rancho ,35.2334,-106.6645,2021,0.0,New Mexico
+Santa Fe ,35.687,-105.9378,2021,0.0,New Mexico
+Albany ,42.6526,-73.7562,2021,0.210173481,New York
+Buffalo ,42.8865,-78.8784,2021,0.270785298,New York
+New Rochelle ,40.9115,-73.7823,2021,0.0,New York
+New York ,40.7143,-74.006,2021,0.164008374,New York
+Syracuse ,43.0481,-76.1474,2021,0.396807305,New York
+Yonkers ,40.9312,-73.8988,2021,0.075352473,New York
+Asheville ,35.6009,-82.554,2021,0.0,North Carolina
+Charlotte ,35.2271,-80.8431,2021,0.063360889,North Carolina
+Durham ,35.994,-78.8986,2021,0.11470626,North Carolina
+Gastonia ,35.2621,-81.1873,2021,0.0,North Carolina
+Greensboro ,36.0726,-79.792,2021,0.12784924,North Carolina
+Greenville ,35.6127,-77.3663,2021,0.442124328,North Carolina
+High Point ,35.9557,-80.0053,2021,0.113439458,North Carolina
+Raleigh ,35.7721,-78.6386,2021,0.092547663,North Carolina
+Wilmington ,34.2257,-77.9447,2021,0.181840548,North Carolina
+Winston-Salem ,36.0999,-80.2442,2021,0.269997124,North Carolina
+Fargo ,46.8772,-96.7898,2021,0.118698117,North Dakota
+Akron ,41.0814,-81.519,2021,0.164746462,Ohio
+Cincinnati ,39.162,-84.4569,2021,0.436865721,Ohio
+Cleveland ,41.4995,-81.6954,2021,0.414361636,Ohio
+Dayton ,39.7589,-84.1916,2021,0.262295078,Ohio
+Parma ,44.8027,10.329,2021,0.0,Ohio
+Toledo ,41.6639,-83.5552,2021,0.333145466,Ohio
+Broken Arrow ,36.0526,-95.7908,2021,0.0,Oklahoma
+Edmond ,35.6528,-97.4781,2021,0.034044614,Oklahoma
+Lawton ,34.6087,-98.3903,2021,0.123728385,Oklahoma
+Norman ,35.2226,-97.4395,2021,0.079303248,Oklahoma
+Oklahoma City ,35.4676,-97.5164,2021,0.130959415,Oklahoma
+Tulsa ,36.154,-95.9928,2021,0.102676886,Oklahoma
+Beaverton ,45.4871,-122.8037,2021,0.0,Oregon
+Bend ,44.0582,-121.3153,2021,0.0,Oregon
+Eugene ,44.0521,-123.0867,2021,0.241909216,Oregon
+Gresham ,45.4982,-122.4315,2021,0.0,Oregon
+Hillsboro ,45.5229,-122.9898,2021,0.0,Oregon
+Medford ,42.3265,-122.8756,2021,0.0,Oregon
+Portland ,45.5234,-122.6762,2021,0.071350555,Oregon
+Salem ,11.65,78.1667,2021,0.036722906,Oregon
+Allentown ,40.6084,-75.4902,2021,0.183132358,Pennsylvania
+Bethlehem ,-28.2308,28.3071,2021,0.131636339,Pennsylvania
+Erie ,42.1292,-80.0851,2021,0.264312635,Pennsylvania
+Philadelphia ,39.9523,-75.1638,2021,0.274980755,Pennsylvania
+Pittsburgh ,40.4406,-79.9959,2021,0.288149,Pennsylvania
+Reading ,51.4562,-0.9711,2021,0.320489001,Pennsylvania
+Scranton ,41.409,-75.6624,2021,0.069040749,Pennsylvania
+Cranston ,41.7798,-71.4373,2021,0.0,Rhode Island
+Pawtucket ,41.8787,-71.3826,2021,0.113669195,Rhode Island
+Providence ,41.824,-71.4128,2021,0.148815571,Rhode Island
+Warwick ,41.7001,-71.4162,2021,0.0,Rhode Island
+Charleston ,32.7766,-79.9309,2021,0.117356601,South Carolina
+North Charleston ,32.8886,-80.0075,2021,0.05059847,South Carolina
+Sioux Falls ,43.55,-96.7003,2021,0.0,South Dakota
+Chattanooga ,35.0456,-85.3097,2021,0.191480275,Tennessee
+Clarksville ,36.5298,-87.3595,2021,0.088374587,Tennessee
+Franklin ,35.9251,-86.8689,2021,0.0,Tennessee
+Knoxville ,35.9606,-83.9207,2021,0.290870116,Tennessee
+Memphis ,35.1495,-90.049,2021,0.341894641,Tennessee
+Murfreesboro ,35.8456,-86.3903,2021,0.0,Tennessee
+Abilene ,32.4487,-99.7331,2021,0.069772171,Texas
+Allen ,33.1032,-96.6705,2021,0.0,Texas
+Amarillo ,35.222,-101.8313,2021,0.107213234,Texas
+Arlington ,32.7357,-97.1081,2021,0.118459275,Texas
+Austin ,30.2672,-97.7431,2021,0.124818393,Texas
+Baytown ,29.7355,-94.9774,2021,0.0,Texas
+Beaumont ,30.0861,-94.1019,2021,0.188117055,Texas
+Brownsville ,25.9018,-97.4975,2021,0.321926288,Texas
+Bryan ,30.6744,-96.37,2021,0.397345811,Texas
+Carrollton ,32.9537,-96.8903,2021,0.0,Texas
+Cedar Park ,30.5052,-97.8203,2021,0.0,Texas
+College Station ,30.628,-96.3344,2021,0.609026605,Texas
+Conroe ,30.3119,-95.456,2021,0.0,Texas
+Corpus Christi ,27.8006,-97.3964,2021,0.112319513,Texas
+Dallas ,32.7831,-96.8067,2021,0.112088838,Texas
+Denton ,33.2148,-97.1331,2021,0.177435022,Texas
+Edinburg ,26.3017,-98.1633,2021,0.116340302,Texas
+El Paso ,31.7587,-106.4869,2021,0.150535719,Texas
+Fort Worth ,32.7254,-97.3208,2021,0.130734869,Texas
+Frisco ,33.1507,-96.8236,2021,0.0,Texas
+Garland ,32.9126,-96.6389,2021,0.0,Texas
+Grand Prairie ,32.746,-96.9978,2021,0.0,Texas
+Houston ,29.7633,-95.3633,2021,0.166264027,Texas
+Irving ,32.814,-96.9489,2021,0.0,Texas
+Killeen ,31.1171,-97.7278,2021,0.0,Texas
+Laredo ,27.5064,-99.5075,2021,0.191911615,Texas
+League City ,29.5075,-95.0949,2021,0.0,Texas
+Lewisville ,33.0462,-96.9942,2021,0.090640095,Texas
+Longview ,32.5007,-94.7405,2021,0.0,Texas
+Lubbock ,33.5779,-101.8552,2021,0.107286832,Texas
+McAllen ,26.2034,-98.23,2021,0.326010519,Texas
+McKinney ,33.1976,-96.6153,2021,0.0,Texas
+Mesquite ,32.7668,-96.5992,2021,0.01432617,Texas
+Midland ,31.9974,-102.0779,2021,0.0,Texas
+Mission ,26.2159,-98.3253,2021,0.095667143,Texas
+New Braunfels ,29.703,-98.1245,2021,0.0,Texas
+Odessa ,46.4775,30.7326,2021,0.0,Texas
+Pearland ,29.5636,-95.286,2021,0.0,Texas
+Pharr ,26.1948,-98.1836,2021,0.437492858,Texas
+Plano ,33.0198,-96.6989,2021,0.0,Texas
+Richardson ,32.9482,-96.7297,2021,0.155553467,Texas
+Round Rock ,30.5083,-97.6789,2021,0.0,Texas
+San Angelo ,31.4638,-100.437,2021,0.0,Texas
+San Antonio ,29.4241,-98.4936,2021,0.088332083,Texas
+Sugar Land ,29.6197,-95.6349,2021,0.0,Texas
+Temple ,31.0982,-97.3428,2021,0.098368136,Texas
+Tyler ,32.3513,-95.3011,2021,0.0,Texas
+Waco ,31.5493,-97.1467,2021,0.42766887,Texas
+Wichita Falls ,33.9137,-98.4934,2021,0.151038845,Texas
+Layton ,41.0602,-111.971,2021,0.0,Utah
+Lehi ,40.3916,-111.8508,2021,0.0,Utah
+Ogden ,41.223,-111.9738,2021,0.0,Utah
+Orem ,40.2969,-111.6946,2021,0.0,Utah
+Provo ,40.2338,-111.6585,2021,0.472135483,Utah
+St. George ,45.1265,-66.8314,2021,0.0,Utah
+Salt Lake City ,40.7608,-111.8911,2021,0.020501218,Utah
+Sandy ,52.1293,-0.2893,2021,0.0,Utah
+South Jordan ,40.5622,-111.9297,2021,0.0,Utah
+West Jordan ,40.6097,-111.9391,2021,0.0,Utah
+West Valley City ,40.6916,-112.0011,2021,0.0,Utah
+Alexandria ,31.2156,29.9553,2021,0.129449407,Virginia
+Chesapeake ,36.819,-76.2749,2021,0.073266916,Virginia
+Hampton ,37.0299,-76.3452,2021,0.088768307,Virginia
+Lynchburg ,37.4138,-79.1423,2021,0.100800132,Virginia
+Newport News ,36.9788,-76.428,2021,0.145824365,Virginia
+Norfolk ,36.8468,-76.2852,2021,0.18916946,Virginia
+Portsmouth ,50.799,-1.0913,2021,0.172083178,Virginia
+Roanoke ,37.271,-79.9414,2021,0.081019673,Virginia
+Suffolk ,52.1667,1.0,2021,0.0,Virginia
+Virginia Beach ,36.8529,-75.978,2021,0.047131792,Virginia
+Bellevue ,47.6104,-122.2007,2021,0.0,Washington
+Bellingham ,48.7595,-122.4882,2021,0.312673399,Washington
+Everett ,47.979,-122.2021,2021,0.0,Washington
+Federal Way ,47.3223,-122.3126,2021,0.0,Washington
+Kennewick ,46.2113,-119.1372,2021,0.130149037,Washington
+Kent ,51.1667,0.6667,2021,0.0,Washington
+Kirkland ,47.6815,-122.2087,2021,0.0,Washington
+Pasco ,46.2396,-119.1006,2021,0.131496196,Washington
+Renton ,47.4829,-122.2171,2021,0.0,Washington
+Seattle ,47.6062,-122.3321,2021,0.070674343,Washington
+Spokane ,47.6597,-117.4291,2021,0.145527065,Washington
+Spokane Valley ,47.6732,-117.2394,2021,0.0,Washington
+Tacoma ,47.2529,-122.4443,2021,0.0,Washington
+Vancouver ,49.2497,-123.1193,2021,0.0,Washington
+Yakima ,46.6021,-120.5059,2021,0.0,Washington
+Appleton ,44.2619,-88.4154,2021,0.0,Wisconsin
+Green Bay ,44.5192,-88.0198,2021,0.0,Wisconsin
+Kenosha ,42.5847,-87.8212,2021,0.0,Wisconsin
+Madison ,43.0731,-89.4012,2021,0.406295822,Wisconsin
+Milwaukee ,43.0389,-87.9065,2021,0.305411428,Wisconsin
+Racine ,42.7261,-87.7829,2021,0.099790743,Wisconsin
